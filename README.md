@@ -80,6 +80,7 @@ Other : `CoolSMS`, `OpenAI`
 > EC2, Docker, Nginx, GitHub Action을 사용하여 blue/green 무중단 배포
 > 
 > - GitHub Action을 **빌드 및 배포 파이프 라인 구축**
+<br/>
 
 # 🤔 Learned
 
