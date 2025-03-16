@@ -1,4 +1,5 @@
-![ssenbi_banner_2안 (1) (1).gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/2bdacfc4-1053-4ee1-a39b-62244cca102a/ff872edb-2467-4cdd-99e7-5cd1fcc2ccc4/ssenbi_banner_2%EC%95%88_(1)_(1).gif)
+![image](https://github.com/user-attachments/assets/ee42c684-3407-4b63-9c0c-6a56a3f71395)
+
 
 # 💡 Topic
 
@@ -6,11 +7,11 @@
 - 고객을 그룹으로 묶어 관리하고 그룹 메시지 전송이 가능한 서비스
 - 삼성청년 소프트웨어 아카데미 11기 프로젝트
 
-
+<br/>
 # 📝 Summary
 
 소규모 자영업자를 위한 **모바일에서도 활용 가능한 문자 CRM 서비스** 입니다. 고객과 메시지 템플릿을 그룹으로 관리할 수 있으며, 등록된 그룹을 통해 한 번에 메시지를 전송할 수 있습니다. 또한, 챗봇을 활용하여 메시지를 빠르게 작성할 수 있어, 보다 효율적인 고객 커뮤니케이션이 가능합니다.
-
+<br/>
 
 # ⭐️ Key Function
 
@@ -25,7 +26,7 @@
     - 메시지 작성 및 수정 시 **AI 챗봇을 활용한 자동 작성 기능 제공**
     - 예약어 기능을 사용하여 **개인 맞춤형 메시지 전송 가능**
     - **개인 또는 그룹 단위로 메시지 전송 가능**
-
+<br/>
 
 # 🛠 Tech Stack
 
@@ -37,19 +38,19 @@ DataBase : `MySQL`
 Infra : `EC2` | `Nginx` | `AWS S3` | `Docker` | `Jenkins`
 
 Other : `CoolSMS`, `OpenAI`
-
+<br/>
 
 # ⚙️ Architecture
 
 **`Spring MVC`**
 
-
+<br/>
 # 🧑🏻‍💻 Team
 
 - 프론트 개발자 3명
 - 백엔드 개발자 3명
 
-
+<br/>
 # 🤚🏻 Part
 
 **메시지 전송 기능 구현**
