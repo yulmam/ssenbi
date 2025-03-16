@@ -39,10 +39,12 @@ Infra : `EC2` | `Nginx` | `AWS S3` | `Docker` | `Jenkins`
 
 Other : `CoolSMS`, `OpenAI`
 <br/>
+<br/>
 
 # ⚙️ Architecture
 
 **`Spring MVC`**
+<br/>
 <br/>
 
 # 🧑🏻‍💻 Team
